@@ -22,3 +22,5 @@ Tô focando em **arquitetura mais clean (feature-first)**, usando **IndexedStack
 - Dart
 - Lints (`flutter_lints`) apontando: `prefer_const_*`, `avoid_unnecessary_containers`, etc.
 
+![Demo](assets/insta-demo.gif)
+
